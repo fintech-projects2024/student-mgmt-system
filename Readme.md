@@ -1,12 +1,18 @@
 # Project Title
 
-This Project help you to maintain student data.
+This Project helps you maintain student data.
 
 ## Table of Contents
-URLs ('screenshots/screenshot1.gif')
- (`./screenshots/screenshot1.gif`)
-(`./screenshots/screenshot1.gif`)
-Make sure to adjust the paths in the image references (`./screenshots/screenshot1.png` ) based on the actual structure of your project.
+- [Screenshots](#screenshots)
+- [Features](#features)
+- [Installation](#installation)
+
+## Screenshots
+
+Include screenshots or images showcasing your project. Use relative paths for images inside your project.
+
+![Screenshot 1](./screenshots/screenshot1.gif)
+![Screenshot 2](./screenshots/screenshot2.gif)
 
 ## Features
 
