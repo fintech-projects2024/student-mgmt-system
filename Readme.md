@@ -3,7 +3,7 @@
 This Project help you to maintain student data.
 
 ## Table of Contents
-URLs ('/screenshots/screenshot1.gif')
+URLs ('screenshots/screenshot1.gif')
 
 ## Features
 
