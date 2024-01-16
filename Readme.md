@@ -3,7 +3,7 @@
 This Project help you to maintain student data.
 
 ## Table of Contents
-URLs ([`https://github.com/fintech-projects2024/student-mgmt-system/blob/master/screenshots/screenshot1.gif`](https://github.com/fintech-projects2024/student-mgmt-system/blob/master/screenshots/screenshot1.gif))
+URLs ('https://github.com/fintech-projects2024/student-mgmt-system/blob/master/screenshots/screenshot1.gif')
 
 ## Features
 
