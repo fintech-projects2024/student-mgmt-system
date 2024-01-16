@@ -1,0 +1,8 @@
+"Create Python Project Using Tkinter and MySQL...
+
+Summary:
+The user interface allows users to enter an ID and password, and upon successful authentication,
+opens a new window with basic functionalities such as adding a student, updating student information, 
+deleting a student, searching for a student, and displaying student details. Once connected to the database, 
+you can add a student's details, and the entered information will be shown on the right side. 
+Finally, the entered student details can be exported from the system."
