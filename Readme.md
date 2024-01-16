@@ -4,7 +4,9 @@ This Project help you to maintain student data.
 
 ## Table of Contents
 URLs ('screenshots/screenshot1.gif')
- URLs(`./screenshots/screenshot1.gif`)
+ (`./screenshots/screenshot1.gif`)
+
+Make sure to adjust the paths in the image references (`./screenshots/screenshot1.png` ) based on the actual structure of your project.
 
 ## Features
 
