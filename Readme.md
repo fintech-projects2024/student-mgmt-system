@@ -13,6 +13,13 @@ Include screenshots or images showcasing your project. Use relative paths for im
 
 ![Screenshot 1](./screenshots/screenshot1.gif)
 ![Screenshot 2](./screenshots/screenshot2.gif)
+![Screenshot 3](./screenshots/screenshot3.jpg)
+![Screenshot 4](./screenshots/screenshot4.gif)
+![Screenshot 5](./screenshots/screenshot5.gif)
+![Screenshot 6](./screenshots/screenshot6.gif)
+![Screenshot 7](./screenshots/screenshot7.gif)
+![Screenshot 8](./screenshots/screenshot8.gif)
+![Screenshot 9](./screenshots/screenshot9.gif)
 
 ## Features
 
