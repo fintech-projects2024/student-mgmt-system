@@ -1,4 +1,4 @@
-# Project Title
+# Student Management System
 
 This Project helps you maintain student data.
 
