@@ -30,4 +30,4 @@ Describe the key features of your project. You can include bullet points or any 
 Provide instructions on how to install your project. You can include code snippets or commands.
 
 ```bash
-npm install your-package-name
+pip install your-package-name
