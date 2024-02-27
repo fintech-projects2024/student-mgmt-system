@@ -1,6 +1,7 @@
 # Student Management System
 
 This Project helps you maintain student data.
+Created by Montu Chavda B.Sc. Fintech Sem 5
 
 ## Table of Contents
 - [Screenshots](#screenshots)
